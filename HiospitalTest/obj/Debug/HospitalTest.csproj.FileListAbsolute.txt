@@ -1,0 +1,9 @@
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\bin\Debug\HiospitalTest.dll
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\bin\Debug\HiospitalTest.pdb
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\bin\Debug\HospitalAdministration.exe
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\bin\Debug\HospitalAdministration.pdb
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\obj\Debug\HospitalTest.csprojResolveAssemblyReference.cache
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\obj\Debug\HiospitalTest.dll
+P:\Craig O'Sullivan\HospitalAdministration\HiospitalTest\obj\Debug\HiospitalTest.pdb

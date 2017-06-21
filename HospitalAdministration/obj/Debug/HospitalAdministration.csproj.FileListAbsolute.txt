@@ -1,0 +1,10 @@
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\bin\Debug\HospitalAdministration.exe.config
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\bin\Debug\HospitalAdministration.exe
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\bin\Debug\HospitalAdministration.pdb
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\obj\Debug\HospitalAdministration.Form1.resources
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\obj\Debug\HospitalAdministration.Properties.Resources.resources
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\obj\Debug\HospitalAdministration.csproj.GenerateResource.Cache
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\obj\Debug\HospitalAdministration.exe
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\obj\Debug\HospitalAdministration.pdb
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\obj\Debug\HospitalAdministration.csprojResolveAssemblyReference.cache
+P:\Craig O'Sullivan\HospitalAdministration\HospitalAdministration\obj\Debug\HospitalAdministration.LogIn.resources
